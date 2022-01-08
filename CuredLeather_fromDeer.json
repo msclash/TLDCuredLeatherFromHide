@@ -10,7 +10,7 @@
     "RequiresLitFire": false,
     "RequiresLight": true,
     "CraftedResult": "GEAR_LeatherDried",
-    "CraftedResultCount": 10,
+    "CraftedResultCount": 8,
     "DurationMinutes": 60,
     "CraftingAudio": "PLAY_CraftingGeneric",
     "AppliedSkill" : "None",
