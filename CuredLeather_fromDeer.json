@@ -1,0 +1,18 @@
+{
+    "Name": "Alternate_Leather",
+    "RequiredGear": ["GEAR_LeatherHideDried"],
+    "RequiredGearUnits": [1],
+    "KeroseneLitersRequired": 0,
+    "GunpowderKGRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": ["GEAR_Knife","GEAR_KnifeImprovised"],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_LeatherDried",
+    "CraftedResultCount": 10,
+    "DurationMinutes": 60,
+    "CraftingAudio": "PLAY_CraftingGeneric",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}
