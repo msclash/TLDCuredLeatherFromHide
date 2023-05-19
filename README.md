@@ -6,4 +6,4 @@ This mod adds some new blue prints to get Cured Leather from the Bear, Deer, Wol
 - 1 cured Wolf hide   =>  4 cured leather
 - 1 cured Rabbit hide =>  2 cured leather
 
-Requiered: Modcomponent (https://github.com/dommrogers/ModComponent)
+Required: Modcomponent (https://github.com/dommrogers/ModComponent)
