@@ -1,5 +1,5 @@
 {
-    "Name": "Alternate_Leather",
+    "Name": "Ascedal_CuredLeatherFromWolf",
     "RequiredGear": [{"Item":"GEAR_WolfPeltDried","Count":1}],
     "KeroseneLitersRequired": 0,
     "GunpowderKGRequired": 0,
